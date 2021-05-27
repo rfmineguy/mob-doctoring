@@ -1,0 +1,83 @@
+{
+  "itemGroup.mob_doctoring": "Mob Doctoring",
+
+  "effect.mob_doctoring.undead_protection": "Undead Protection",
+  "effect.mob_doctoring.bones_protection": "Bones Protection",
+  "effect.mob_doctoring.arachnids_protection": "Arachnids Protection",
+  "effect.mob_doctoring.slime_protection": "Slimy Protection",
+  "effect.mob_doctoring.blaze_protection": "Blazin' Protection",
+  "effect.mob_doctoring.creepy_protection": "Creepy Protection",
+  "effect.mob_doctoring.ender_protection": "Ender Protection",
+  "effect.mob_doctoring.guardian_protection": "Guardian Protection",
+  "effect.mob_doctoring.piglin_protection": "Piglin Protection",
+  "effect.mob_doctoring.magma_protection": "Magma Protection",
+  "effect.mob_doctoring.ghast_protection": "Ghast Protection",
+  "effect.mob_doctoring.shulk_protection": "Shulker Protection",
+
+  "effect.mob_doctoring.effect_certaindeath": "Certain Death",
+  "effect.mob_doctoring.effect_immobilized": "Immobilized",
+  "effect.mob_doctoring.effect_center_tunnel": "Tunnel Vision",
+  "effect.mob_doctoring.effect_edge_tunnel": "Peripheral Vision",
+  "effect.mob_doctoring.effect_hallucinations": "Hallucinations",
+
+  "item.mob_doctoring.specimen_common": "Common Specimen",
+  "item.mob_doctoring.specimen_dangerous": "Dangerous Specimen",
+  "item.mob_doctoring.specimen_violent": "Violent Specimen",
+  "item.mob_doctoring.specimen_impossible": "Impossible Specimen",
+
+  "item.mob_doctoring.catalyst_dust": "Catalyst Dust",
+  "block.mob_doctoring.catalyst_ore": "Catalyst Ore",
+
+  "item.mob_doctoring.handle_common": "Common Handle",
+  "item.mob_doctoring.handle_dangerous": "Dangerous Handle",
+  "item.mob_doctoring.handle_violent": "Violent Handle",
+  "item.mob_doctoring.handle_impossible": "Impossible Handle",
+
+  "item.mob_doctoring.axe_common": "Common Axe",
+  "item.mob_doctoring.axe_dangerous": "Dangerous Axe",
+  "item.mob_doctoring.axe_violent": "Violent Axe",
+  "item.mob_doctoring.axe_impossible": "Impossible Axe",
+
+  "item.mob_doctoring.sword_common": "Common Sword",
+  "item.mob_doctoring.sword_dangerous": "Dangerous Sword",
+  "item.mob_doctoring.sword_violent": "Violent Sword",
+  "item.mob_doctoring.sword_impossible": "Impossible Sword",
+
+  "item.mob_doctoring.serum_undead": "Serum of the Undead",
+  "item.mob_doctoring.serum_bones": "Serum of Bones",
+  "item.mob_doctoring.serum_arachnid": "Serum of Arachnids",
+  "item.mob_doctoring.serum_slime": "Slimy Serum",
+  "item.mob_doctoring.serum_blaze": "Blazin' Serum",
+  "item.mob_doctoring.serum_creepy": "Creepy Serum",
+  "item.mob_doctoring.serum_ender": "Ender Serum",
+  "item.mob_doctoring.serum_guardian": "Serum of Guardian",
+  "item.mob_doctoring.serum_piglin": "Serum of Piglin",
+  "item.mob_doctoring.serum_magma": "Magma Serum",
+  "item.mob_doctoring.serum_ghast": "Ghast Serum",
+  "item.mob_doctoring.serum_shulk": "Serum of the Shulk",
+
+  "item.mob_doctoring.syringe_undead": "Syringe of the Undead",
+  "item.mob_doctoring.syringe_bones": "Syringe of Bones",
+  "item.mob_doctoring.syringe_arachnid": "Syringe of Arachnids",
+  "item.mob_doctoring.syringe_slime": "Slimy Syringe",
+  "item.mob_doctoring.syringe_blaze": "Blazin' Syringe",
+  "item.mob_doctoring.syringe_creepy": "Creepy Syringe",
+  "item.mob_doctoring.syringe_ender": "Ender Syringe",
+  "item.mob_doctoring.syringe_guardian": "Syringe of Guardian",
+  "item.mob_doctoring.syringe_piglin": "Syringe of Piglin",
+  "item.mob_doctoring.syringe_magma": "Magma Syringe",
+  "item.mob_doctoring.syringe_ghast": "Ghast Syringe",
+  "item.mob_doctoring.syringe_shulk": "Syringe of the Shulk",
+  "item.mob_doctoring.syringe_antibodies": "Antibody Syringe",
+  "item.mob_doctoring.syringe_empty": "Empty Syringe",
+
+  "item.mob_doctoring.antibodies_base": "Antibody Base",
+  "item.mob_doctoring.antibodies": "Antibodies",
+
+  "item.mob_doctoring.essence_common": "Common Essence",
+  "item.mob_doctoring.essence_dangerous": "Dangerous Essence",
+  "item.mob_doctoring.essence_violent": "Violent Essence",
+  "item.mob_doctoring.essence_impossible": "Impossible Essence",
+
+  "entity.mob_doctoring.creeper_ghost": "Ghostly Creeper"
+}

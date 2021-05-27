@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mob_doctoring:items/axes/axe_violent"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        " G ",
+        " G "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+		"G": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:syringe_empty",
+		"count": 1
+	}
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CDC",
+        "NBN"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "C": {
+            "item": "mob_doctoring:catalyst_dust"
+        },
+		"D": {
+            "item": "minecraft:glass_bottle"
+        },
+        "N": {
+            "item": "minecraft:nether_wart"
+        },
+		 "B": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:antibodies_base",
+		"count": 1
+	}
+}

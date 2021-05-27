@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DD ",
+        "D# ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "mob_doctoring:handle_impossible"
+        },
+        "D": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:axe_impossible",
+		"count": 1
+	}
+}

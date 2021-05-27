@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        " D ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "mob_doctoring:handle_violent"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:sword_violent",
+		"count": 1
+	}
+}

@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "123",
+        "CDC",
+        "SBS"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:bone"
+        },
+		"2": {
+            "item": "minecraft:spider_eye"
+        },
+		"3": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "C": {
+            "item": "mob_doctoring:catalyst_dust"
+        },
+		"D": {
+            "item": "minecraft:glass_bottle"
+        },
+        "S": {
+            "item": "mob_doctoring:specimen_common"
+        },
+		 "B": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:essence_common",
+		"count": 1
+	}
+}

@@ -1,0 +1,35 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Impossible Specimen",
+            "color": "red"
+        },
+        "description": {
+            "text": "Obtain 32x Impossible Specimen"
+        },
+        "icon": {
+            "item": "mob_doctoring:specimen_impossible"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossibleSpecimen": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "mob_doctoring:specimen_impossible",
+                        "count": {
+                            "min": 32
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "mob_doctoring:root"
+}

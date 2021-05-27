@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "mob_doctoring:block/catalyst_ore" }
+    }
+}

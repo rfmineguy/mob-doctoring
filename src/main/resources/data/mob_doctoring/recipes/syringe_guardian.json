@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mob_doctoring:serum_guardian"
+        },
+        {
+            "item": "mob_doctoring:syringe_empty"
+        }
+    ],
+    "result": {
+		"item": "mob_doctoring:syringe_guardian",
+		"count": 1
+	}
+}

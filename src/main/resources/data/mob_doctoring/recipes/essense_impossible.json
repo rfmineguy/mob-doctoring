@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 2 ",
+        "CDC",
+        "SBS"
+    ],
+    "key": {
+        "2": {
+            "item": "minecraft:conduit"
+        },
+        "C": {
+            "item": "mob_doctoring:catalyst_dust"
+        },
+		"D": {
+            "item": "minecraft:glass_bottle"
+        },
+        "S": {
+            "item": "mob_doctoring:specimen_impossible"
+        },
+		 "B": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:essence_impossible",
+		"count": 1
+	}
+}

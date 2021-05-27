@@ -1,0 +1,35 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Dangerous Serum",
+            "color": "yellow"
+        },
+        "description": {
+            "text": "Obtain 32x Dangerous Essence"
+        },
+        "icon": {
+            "item": "mob_doctoring:essence_dangerous"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "dangerousSerum": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "mob_doctoring:essence_dangerous",
+                        "count": {
+                            "min": 32
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "mob_doctoring:obtain_dangerous_specimen"
+}

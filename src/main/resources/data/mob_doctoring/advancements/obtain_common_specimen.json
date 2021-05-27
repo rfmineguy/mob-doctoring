@@ -1,0 +1,36 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Common Specimen",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "Obtain 32x Common Specimen",
+            "italic": false
+        },
+        "icon": {
+            "item": "mob_doctoring:specimen_common"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "commonSpecimen": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "mob_doctoring:specimen_common",
+                        "count": {
+                            "min": 32
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "mob_doctoring:root"
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        " D ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "mob_doctoring:handle_common"
+        },
+        "D": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:sword_common",
+		"count": 1
+	}
+}

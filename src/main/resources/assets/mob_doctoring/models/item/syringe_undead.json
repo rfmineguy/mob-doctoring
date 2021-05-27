@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mob_doctoring:overlays/syringe/syringe_undead",
+    "layer1": "mob_doctoring:items/syringe"
+  }
+}

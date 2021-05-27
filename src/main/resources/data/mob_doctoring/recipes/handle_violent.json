@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "#C#",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "D": {
+            "item": "minecraft:leather"
+        },
+        "C": {
+            "item": "mob_doctoring:essence_violent"
+        }
+    },
+    "result": {
+		"item": "mob_doctoring:handle_violent",
+		"count": 1
+	}
+}
